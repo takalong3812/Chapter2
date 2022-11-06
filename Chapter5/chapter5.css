@@ -28,7 +28,7 @@ nav-list-item {
  width: 800px;
  margin: 50px auto;
  display: flex;
- flex-wrap;
+ flex-wrap: wrap;
 }
 
 .box1 {
