@@ -28,8 +28,39 @@ main{
 }
 
 .step-img1 {
- height: 150px;
+ height:150px;
  background-image: url(img/flow01.png);
  background-position:bottom;
  background-size:cover;
+}
+
+.step-img2 {
+ height:150px;
+ background-image: url(img/flow02.png);
+ background-position:bottom;
+ background-size: cover;
+}
+
+.step-img3 {
+ height:150px; 
+ background-image: url(img/flow03.png);
+ background-position:bottom;
+ background-size: cover;
+} 
+
+.step-num {
+  position: absolute;
+  top:0;
+  left:0;
+  background-color: #ff9a4b;
+  color: #fff;
+}
+
+.title {
+  margin: 15px 0 5px;
+}
+
+footer {
+ height: 50px;
+ background-color: #aaa;
 }
